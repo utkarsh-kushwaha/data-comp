@@ -1,6 +1,6 @@
 # Data Compression-Decompression #
-Name: Utkarsh Kushwaha
-MIS: 111503037
+### Name: Utkarsh Kushwaha ###
+### MIS: 111503037 ###
 
 ## Description ##
 Three compression algorithms { Huffman, LZW, RLE } have been implemented
@@ -38,10 +38,12 @@ usage: ./project [OPTION] [METHOD] path(input file) path(output file)
 
 	rle		execute [OPTION] using RLE
 
-### Results ###
-Peformance of each compression algorithm can be seen in results the file.
+## Results ##
+An average 40-42% reduction of size of input file (text, binary, ...) is achieved in Huffman compressed file.
+No limitation to file type has been observed in case of Huffman and RLE programs.
+Very large compression ratios can be achieved using LZW compression.
 
-##Limitations$##
+## Limitations ##
 LZW takes considreable amount of time to compress large data.
 
 ## To do ##
