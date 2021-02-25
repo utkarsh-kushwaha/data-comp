@@ -1,4 +1,4 @@
-# data-comp
+# data-compression
 # Data Compression-Decompression #
 ### Name: Utkarsh Kushwaha ###
 ### MIS: 111503037 ###
